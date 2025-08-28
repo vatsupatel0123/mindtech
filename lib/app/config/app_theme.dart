@@ -14,7 +14,8 @@ ThemeData getApplicationTheme() {
     unselectedWidgetColor: Colors.black,
     highlightColor: Colors.transparent,
     splashFactory: NoSplash.splashFactory,
-    cardTheme: CardTheme(
+
+    cardTheme: CardThemeData(
       color: AppColor.white,
       shadowColor: AppColor.grey2,
       elevation: AppSize.s2,
@@ -24,26 +25,32 @@ ThemeData getApplicationTheme() {
       ),
       surfaceTintColor: AppColor.white,
     ),
+
     appBarTheme: AppBarTheme(
-      color: AppColor.white,
+      backgroundColor: AppColor.white,
       systemOverlayStyle: SystemUiOverlayStyle(
         statusBarColor: AppColor.white,
-        statusBarIconBrightness: Brightness.dark
+        statusBarIconBrightness: Brightness.dark,
       ),
       titleTextStyle: AppTextStyle.h2,
       centerTitle: true,
       surfaceTintColor: Colors.transparent,
     ),
+
     primarySwatch: Colors.blue,
+
     progressIndicatorTheme: ProgressIndicatorThemeData(
-      color: Colors.white, // Change color globally
+      color: Colors.white, // Progress indicator color
       circularTrackColor: Colors.blue, // Track color
     ),
+
     dividerTheme: DividerThemeData(
       color: AppColor.divider,
       thickness: 1,
     ),
+
     dialogBackgroundColor: AppColor.white,
+
     inputDecorationTheme: InputDecorationTheme(
       filled: true,
       fillColor: AppColor.white,
@@ -55,6 +62,7 @@ ThemeData getApplicationTheme() {
       suffixIconColor: AppColor.grey,
       floatingLabelBehavior: FloatingLabelBehavior.auto,
       floatingLabelStyle: AppTextStyle.h3,
+
       enabledBorder: OutlineInputBorder(
         borderSide: BorderSide(
           color: AppColor.textfieldBorder,
