@@ -1,0 +1,2 @@
+E:/Flutter/flutter_projects/client/mindtech/android/app/.cxx/Debug/3n113wy5/x86_64/CMakeFiles/edit_cache.dir
+E:/Flutter/flutter_projects/client/mindtech/android/app/.cxx/Debug/3n113wy5/x86_64/CMakeFiles/rebuild_cache.dir

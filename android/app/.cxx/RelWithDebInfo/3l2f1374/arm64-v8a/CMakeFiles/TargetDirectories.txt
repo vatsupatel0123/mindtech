@@ -1,0 +1,2 @@
+E:/Flutter/flutter_projects/wellon_inventory/android/app/.cxx/RelWithDebInfo/3l2f1374/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Flutter/flutter_projects/wellon_inventory/android/app/.cxx/RelWithDebInfo/3l2f1374/arm64-v8a/CMakeFiles/rebuild_cache.dir

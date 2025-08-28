@@ -1,0 +1,1 @@
+E:\Flutter\flutter_projects\client\mindtech\build\app\intermediates\cxx\RelWithDebInfo\12654gi5\obj\arm64-v8a

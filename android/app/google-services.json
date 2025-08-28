@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86900427569",
+    "project_id": "mindtech-235c6",
+    "storage_bucket": "mindtech-235c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86900427569:android:978979cdcede331ddd3e10",
+        "android_client_info": {
+          "package_name": "com.mindtech.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86900427569-2lfauf77j71qat0o19bkipkeg4l3o5g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindtech.buddy",
+            "certificate_hash": "15549eea158b4db03b91c99dd64cc811fc871a00"
+          }
+        },
+        {
+          "client_id": "86900427569-apa9edlnkpmod6vvdimtndc6i1l9gc93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQRbMCQjFOP-NyIplvctS-0rAyyZjr6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86900427569-2ql3u6osg3uct13p6ge4anf317bomdva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

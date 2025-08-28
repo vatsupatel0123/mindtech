@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>86900427569-kfhjnteciaf0d14sl41fg8hb85qlfodf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.86900427569-kfhjnteciaf0d14sl41fg8hb85qlfodf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>86900427569-2lfauf77j71qat0o19bkipkeg4l3o5g5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmN_EUuO3c_X6ZF_aaVvC85cHM8gE3ctw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>86900427569</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mindtech.buddy</string>
+	<key>PROJECT_ID</key>
+	<string>mindtech-235c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindtech-235c6.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:86900427569:ios:5f2b0a4287c49c52dd3e10</string>
+</dict>
+</plist>

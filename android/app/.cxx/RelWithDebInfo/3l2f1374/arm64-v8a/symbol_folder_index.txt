@@ -1,0 +1,1 @@
+E:\Flutter\flutter_projects\wellon_inventory\build\app\intermediates\cxx\RelWithDebInfo\3l2f1374\obj\arm64-v8a
