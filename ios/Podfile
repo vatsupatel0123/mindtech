@@ -38,13 +38,13 @@ post_install do |installer|
   installer.pods_project.targets.each do |target|
     flutter_additional_ios_build_settings(target)
 
-    # Allow camera + notifications permissions
+    # Allow camera + notifications + photo library permissions
     target.build_configurations.each do |config|
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0'
       config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= '$(inherited)'
 
       # Enable permissions
-      config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << ' PERMISSION_CAMERA=1 PERMISSION_NOTIFICATIONS=1'
+      config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << ' PERMISSION_CAMERA=1 PERMISSION_NOTIFICATIONS=1 PERMISSION_PHOTOS=1 PERMISSION_PHOTOLIBRARY=1'
     end
   end
 end
